@@ -1,0 +1,81 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Laptop",
+            "price": 120,
+            "qty": 1000,
+            "image": "g1.webp"
+        },
+        {
+            "id": 2,
+            "name": "Phone",
+            "price": 800,
+            "qty": 100,
+            "image": "g2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Tablet",
+            "price": 500,
+            "qty": 100,
+            "image": "g3.webp"
+        },
+        {
+            "id": 4,
+            "name": "Keyboard",
+            "price": 50,
+            "qty": 100,
+            "image": "g4.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Mouse",
+            "price": 25,
+            "qty": 100,
+            "image": "g5.webp"
+        },
+        {
+            "id": 6,
+            "name": "Monitor",
+            "price": 300,
+            "qty": 100,
+            "image": "k1.webp"
+        },
+        {
+            "id": 7,
+            "name": "Camera",
+            "price": 900,
+            "qty": 100,
+            "image": "k2.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Speaker",
+            "price": 150,
+            "qty": 100,
+            "image": "k3.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Headphone",
+            "price": 120,
+            "qty": 100,
+            "image": "k4.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Smart Watch",
+            "price": 250,
+            "qty": 100,
+            "image": "k5.jpg"
+        }
+    ]
+}
+
+
+
+
+
+
+
