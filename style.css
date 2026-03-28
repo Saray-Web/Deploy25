@@ -1,6 +1,4 @@
-body{
-    background-color: rebeccapurple;
-}
-h1{
-    color: aliceblue;
+.card:hover {
+    transform: translateY(-5px);
+    transition: 0.3s;
 }
